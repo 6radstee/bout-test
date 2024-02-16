@@ -1,0 +1,2 @@
+x="stano"
+print(x)
