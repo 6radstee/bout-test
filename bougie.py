@@ -1,2 +1,2 @@
-x="stano"
-print(x)
+age=21
+print(str(age)) 
